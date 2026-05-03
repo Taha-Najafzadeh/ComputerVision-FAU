@@ -1,0 +1,16 @@
+Example: C:\Users\taham\OneDrive\Documents\New project\ComputerVision-FAU\a1\data\example4kinect.mat
+Floor plane: n=[-0.02851  0.36949  0.9288 ], d=0.98937
+Top plane:   n=[-0.03473  0.36348  0.93095], d=0.80166
+Height: 0.1877 m
+Length: 0.4448 m
+Width:  0.3401 m
+Corners (row, col):
+[[199 366]
+ [306 233]
+ [186 176]
+ [125 293]]
+Corners (x, y, z):
+[[ 3.06465e-01  1.69466e-02  8.65920e-01]
+ [-5.12700e-02  2.58352e-01  7.58121e-01]
+ [-2.53082e-01  8.88732e-04  8.51279e-01]
+ [ 1.04652e-01 -2.40517e-01  9.59078e-01]]
